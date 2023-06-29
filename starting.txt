@@ -1,0 +1,70 @@
+Chapter one: Indroduction
+
+1.1 Background
+
+
+Hospital management system is a web based computerised system that provides a platform for hospitals,clinics and other health services providing organizaions to manage 
+hospital facilities through online medium. It provides online appointment with doctors of representative hospitals and clinics as well as it provides online booking of 
+cabins and other facilities which are physically provided by respective hospitals and clinics. It also provides online health care services as well as appoinment for 
+home visit can be booked with the help of this platform.
+
+
+        Hospital management system has a main motive to make routine checkup and interaction with their doctors easier. It is mainly focused to provide the best
+ facilities to each and every patients.This web based design will make easier to subscribe the package and further expansion on package will be possible with less 
+effort. This project will takeover the general task responsible by receptionist.In this rapidly growing world it is really hard to stand as a business without the 
+use of latest technologies. Thus, this project will help the management system to be easier.
+
+
+        This system can be used by a non-programming/technical personal avoiding the human handled errors.This project can be used by two users
+	1. Patients/Normal users
+	2. Hospitals and Clinics
+	
+
+               Patients/Normal users have the free functionality for registering and making payment for the appointment.These users can only have limited rights to
+this system. These users cannot delete or add any offers or publish any official or unofficial funtions linking to organizational administration.
+               
+               Hospitals and Clinics have the access to control the official package/offers or to add/delete/update information the doctors or the facilties available.
+               
+     
+1.2 Terminalogy
+
+1.3 Statement of Problem
+         In this present situation where all the facilities are provided by the electronic means hospital facility should also be in the top most for providing
+facilities with less interaction with the  peoples. Patients have to wait for the long procedure in hospital for the appointment and many wishes for having a private
+cabin inside hospital but due to the limited options it is a hard job.The most common problem of paper based reservation of appointment and other facilities are:
+
+i.    Hard to find the old datas
+ii.   Time cosuming for reservation and appointment 
+iii.  Data duplication and Over Reservation
+
+1.3 Objective
+        A Computer Based Management system is designed to handle all the primary information required to  
+
+
+
+
+1.4 Application
+        Although our project  won't have all the features required to be a good hospital management system,it will still manage to handle most important system
+which is taking appointment/reservations. The hospital and clinics will also have access to manage the following features:
+
+i.Patients database management
+   It can manage or maintain the patient records and provide discounts and offer for the user who have visited the site.
+
+ii.Cabin and Appointment Availability
+   The user can check whether the appointment or other facilties provided by hospital are available or not.
+
+iii. Reservation
+   By using it reservation of appointment and other facilties can be done avoiding the overwriting/overbooking.
+
+iv.Search all previous patients data
+   Through using this system, admin will be able to search for the previous data of petient.
+
+
+
+
+
+
+	chapter-2: LITERATURE REVIEW
+
+
+

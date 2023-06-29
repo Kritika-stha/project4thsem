@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> document</title>
+        <style>
+            
+      
+            
+            .t{
+                height:400px;
+                width:400px;
+              
+                margin-left: 750px;
+                padding-top: 100px;
+                text-align: center;
+
+            }
+            .p{
+                margin-top: 30px;
+                margin-left: 5px;
+                border-radius: 5px;
+                padding: 2.5%;
+            
+
+            }
+            .l{
+            
+                background-color:dodgerblue;
+                margin-top: 30px;
+                margin-left:5px;
+                color:blanchedalmond;
+                padding:1.5%;
+                width: 100px;
+                border-radius: 5px;
+
+            }
+            .e{
+                margin-left: 5px;
+                padding: 2.5%;
+                margin-top: 50px;
+                border-radius:5px;
+
+            }
+            .c{
+                background-color: tomato;
+                margin-top: 20px;
+                margin-left: 5px;
+                color: blanchedalmond;
+                padding: 2.5%;
+                border-radius: 5px;
+            }
+           
+            .header {
+  overflow: hidden;
+  background-color: #D4E6F1;
+  padding: 10px 50px;
+  padding-top: 5px;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header k {
+  size: 5px;
+  font-weight: bold;
+ 
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  background-color:#EBDEF0;
+  color: black;
+  
+}
+
+/* Style the active/current link*/
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+   
+  }
+}
+
+        </style>
+    </head>
+
+    <body>
+        
+        <div class="header">
+            <div class="k">
+        
+            <img src="logo1.png" width="220" height="121"  alt="logo">
+            </div>
+            
+            <div class="header-right">
+              <a class="active" href="#home">Home</a>
+              <a href="#contact">Contact</a>
+              <a href="#about">About</a>
+            </div>
+          </div>
+
+
+</div>
+
+        
+
+        <br>
+        <div class="f">
+        <div class="t">
+            <input class="e" type="text"placeholder="Email or phonenumber";>
+
+            <br>
+            <input class="p" type="password" placeholder="password";>
+            <br>
+            <input class="l" type="button"  value="Login";>
+            <br><br><br>
+            <a href="">Forgot Password?</a>
+            
+            <hr>
+            <input class="c"type="button" value="Create Account";>
+        </div>
+         </div>
+    </body>
+    </html>
